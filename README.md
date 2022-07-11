@@ -40,6 +40,6 @@ For refering the results, Please go to the current date folder and open the "exc
 
 This project includes 3 main files,
 
-exchange_query_ops.py: This contains main handling function for different currencies.
-utils.py: This includes all functions such as, url generator, request module and CSV writer.
-settings.py: This includes comon values and settings.
+- exchange_query_ops.py: This contains main handling function for different currencies.
+- utils.py: This includes all functions such as, url generator, request module and CSV writer.
+- settings.py: This includes comon values and settings.
